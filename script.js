@@ -1,4 +1,4 @@
-
+/* 
 // Objeto de usuários:
 const users = {
     nome: '',
@@ -101,3 +101,5 @@ function validateLogin(login, password) {
 
 // Iniciar o sistema:
 startApp();
+
+ */
